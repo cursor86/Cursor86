@@ -27,7 +27,7 @@ I build workflow automations, web tools and finance dashboards that remove manua
 | 🧰 **[Toolwebsite](https://github.com/cursor86/Toolwebsite)** | Privacy-first everyday web tools that run entirely in the browser. The first set is a pregnancy and family-planning hub with 8 tools. *Next.js, TypeScript, Tailwind CSS* |
 | 📈 **[NewFinera](https://newfinera.com)** | Finance information hub and SME bookkeeping site with free tax calculators and guides for Australia, UK, US and UAE. |
 | 🧮 **[FineraAccounting](https://github.com/cursor86/FineraAccounting)** | NewFinera's AI-assisted bookkeeping pipeline: Xero/MYOB exports in, a tied-out 3-statement model and client dashboard out. *Python, React, Excel* |
-| 📊 **[Dashboard](https://github.com/cursor86/Dashboard)** | A generator for ready-to-sell business templates: bookkeeping, bill calendar, sales analytics, ads and gym trackers, plus brand kits for Etsy sellers and creators. *Python, Excel, PowerPoint* |
+| 📊 **[Dashboard](https://github.com/cursor86/Dashboard)** | A one-click template personaliser: a GitHub form runs Python that fills each buyer's name, niche and currency into Excel templates (bookkeeping, bill calendar, sales analytics, ads and gym trackers). Plus PowerPoint brand kit templates. *Python, Excel, GitHub Actions* |
 | 🎬 **Video ad studio** *(private)* | Reels, portfolio videos and ads built programmatically with React and Remotion. |
 | ☁️ **Client website platform** *(private)* | Cloudflare Workers, D1 and R2 hosting for client sites, with lead forms, spam protection, email alerts and storage alerts. |
 
